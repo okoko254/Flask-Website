@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okoko254
 - 👀 I’m interested in Machine learning and AI
-- 🌱 I’m currently learning Python, Tensor flow, Data Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python Backend, The different frameworks in python and machine learning, Data Science
+- 💞️ I’m looking to collaborate on Research and Development, Product Development and Open source contributions
 - 📫 How to reach me: Email okokorebecca39@gmail.com, Phone 0782842570
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
